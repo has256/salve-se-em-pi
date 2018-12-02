@@ -10,45 +10,45 @@
 
 #### (Websites || TIDIA) dos/as Docentes - 2019.1
 
-Alexandre Donizeti Alves <br/>
-Alexandre Noma <br/> 
-Aline de Oliveira Panazio <br/> 
-Ana Carolina Q. Simões <br/> 
-Anderson G. S. Cravo <br/> 
-Aritanan Borges G. Gruber <br/> 
-Carla Negri Lintzmayer <br/> 
-Carlos da S. dos Santos <br/>
-Celso Setsuo Kurashima <br/>
-Cristiane Maria Sato <br/> 
-Daniel Boari Coelho <br/> 
-Daniel Morgato Martins <br/> 
-Diogo Santana Martins <br/> 
-Elizabeth Teodorov <br/> 
-Fabrício Olivetti de França <br/> 
-Francisco Isidro Masseto <br/> 
-Francisco J. Fraga <br/>
-Itana Stiubiener <br/> 
-João M. B. Josko <br/>
-João Paulo Gois <br/>
-John Andrew Sims <br/> 
-Luneque del Rio <br/>
-Márcio Katsumi Oikawa <br/> 
-Magda A. S. Miyashiro <br/> 
-Maria das G. B. Marietto <br/>
-Mario Alexandre Gazziro <br/>
-Mirtha Lina Fernandez <br/>
-Monael P. Ribeiro <br/>
-Natalia Emelianova <br/> 
-Paulo H. Pisani <br/> 
-Paulo Joia Filho <br/> 
-Ricardo Suyama <br/> 
-Ronaldo C. Prati <br/> 
-Saul de Castro Leite <br/> 
-Semipresencial <br/>
-Thiago Ferreira Covões <br/>
-Valério Ramos Batista <br/>
-Vera Nagamuta Araujo <br/> 
-Wagner Tanaka Botelho <br/> 
+[Alexandre Donizeti Alves]() <br/>
+[Alexandre Noma]() <br/> 
+[Aline de Oliveira Panazio]() <br/> 
+[Ana Carolina Q. Simões]() <br/> 
+[Anderson G. S. Cravo]() <br/> 
+[Aritanan Borges G. Gruber](http://professor.ufabc.edu.br/~aritanan.gruber/teaching/pi19/) <br/> 
+[Carla Negri Lintzmayer](http://professor.ufabc.edu.br/~carla.negri/) <br/> 
+[Carlos da S. dos Santos]() <br/>
+[Celso Setsuo Kurashima]() <br/>
+[Cristiane Maria Sato]() <br/> 
+[Daniel Boari Coelho]() <br/> 
+[Daniel Morgato Martins]() <br/> 
+[Diogo Santana Martins]() <br/> 
+[Elizabeth Teodorov]() <br/> 
+[Fabrício Olivetti de França](https://folivetti.github.io/teaching/) <br/> 
+[Francisco Isidro Masseto]() <br/> 
+[Itana Stiubiener]() <br/> 
+[João Kleinschmidt](http://professor.ufabc.edu.br/~joao.kleinschmidt/) <br/>
+[João M. B. Josko]() <br/>
+[João Paulo Gois]() <br/>
+[John Andrew Sims]() <br/> 
+[Luneque del Rio]() <br/>
+[Márcio Katsumi Oikawa]() <br/> 
+[Magda A. S. Miyashiro]() <br/> 
+[Maria das G. B. Marietto](http://professor.ufabc.edu.br/~graca.marietto/) <br/>
+[Mario Alexandre Gazziro](http://professor.ufabc.edu.br/~mario.gazziro/) <br/>
+[Mirtha Lina Fernandez]() <br/>
+[Monael P. Ribeiro]() <br/>
+[Natalia Emelianova]() <br/> 
+[Paulo H. Pisani](http://professor.ufabc.edu.br/~paulo.pisani/) <br/> 
+[Paulo Joia Filho](http://paulojoia.orgfree.com/) <br/> 
+[Ricardo Suyama]() <br/> 
+[Ronaldo C. Prati]() <br/> 
+[Saul de Castro Leite]() <br/> 
+[Semipresencial]() <br/>
+[Thiago Ferreira Covões]() <br/>
+[Valério Ramos Batista]() <br/>
+[Vera Nagamuta Araujo]() <br/> 
+[Wagner Tanaka Botelho]() <br/> 
 
 > Se o/a seu/sua docente não constar nessa lista, é bem provável que não, eu não esqueci. Ele/a não está listado/a, pois devido à uma conjuntura complexa, há um histórico de discordância com métodos de aprendizado colaborativos e/ou utilização de seus materiais acadêmicos para outros fins. Acaso você for um(a) dos(as) docentes acima listados e também discordar com quaisquer termos: [0] solicito um perdão antecipado pela sua inclusão e [1] basta entrar em contato via issue ou e-mail - abreu.carlos@aluno.ufabc.edu.br - que faço a remoção ASAP. 
 
@@ -56,7 +56,7 @@ Wagner Tanaka Botelho <br/>
 
 #### Material de Estudo
 
-Acima estarão disponíveis algumas soluções minhas para problemas clássicos que tendem à ser resolvidos nessa disciplina. </br> 
+Acima, na lista de arquivos, estarão disponíveis algumas soluções minhas para problemas clássicos que tendem à ser resolvidos nessa disciplina. </br> 
 
 - Livros
 - Cursos
