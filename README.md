@@ -50,7 +50,7 @@
 [Vera Nagamuta Araujo]() <br/> 
 [Wagner Tanaka Botelho]() <br/> 
 
-> Se o/a seu/sua docente não constar nessa lista, é bem provável que não, eu não esqueci. Ele/a não está listado/a, pois devido à uma conjuntura complexa, há um histórico de disponibilização dos materiais de suas disciplinas restrito às suas turmas. Acaso você for um(a) dos(as) docentes acima listados e também discordar de ter indexado seu nome: [0] solicito um perdão antecipado pela sua inclusão e [1] basta entrar em contato via issue ou e-mail - abreu.carlos@aluno.ufabc.edu.br - que faço a remoção ASAP. 
+> Se o/a seu/sua docente não constar nessa lista, é bem provável que não, eu não esqueci. Ele/a não está listado/a, pois devido à uma conjuntura complexa, há um histórico dele/a deixar os materiais de suas disciplinas restrito às suas turmas. Acaso você for um(a) dos(as) docentes acima listados e também discordar de ter indexado seu nome: [0] solicito um perdão antecipado pela sua inclusão e [1] basta entrar em contato via issue ou e-mail - abreu.carlos@aluno.ufabc.edu.br - que faço a remoção ASAP. 
 
 ---
 
